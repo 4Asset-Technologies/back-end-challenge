@@ -15,7 +15,7 @@ sistemas, e é nesses aspectos que vamos mirar nessa challenge.
 
 O objetivo desse desafio é construir duas aplicações Rails. Uma com o proposito de basicamente guardar as informações no banco de dados. E a outra, com o proposito de conectar na API de streaming do Twitter e fique procurando publicações com uma determinada palavra.
 
-#### Aplicativos Rails
+#### Aplicativo para armazenar os dados
 
 Um aplicativo Rails, extremamente simples, com um endpoint RESTful para
 cadastrar novos _tweets_:
@@ -39,7 +39,7 @@ Simples, não?
 * Uma boa documentação, dentro e fora do código
 * Testes em RSpec (unitários e de integração)
   
-#### Crawler do Twitter
+#### Aplicativo para buscar os dados
 
 Esse é o aplicativo que vai abastecer a aplicação Rails com dados do twitter.
 
