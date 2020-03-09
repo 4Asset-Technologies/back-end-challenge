@@ -7,7 +7,7 @@ Na 4Asset temos várias aplicações e utilizamos Ruby e Rails para
 responder as demandas de forma rápida e com alta capacidade. Muita vezes,
 quando surge um problema e não sabemos muito bem como resolve-ló, utilizamos Ruby. 
 
-Deve pensar em desenvolver aplicativos que façam parte de uma arquitetura maior. É preciso
+Devemos pensar em desenvolver aplicativos que façam parte de uma arquitetura maior. É preciso
 capacidade de organização, documentação e abstração para conceber tais
 sistemas, e é nesses aspectos que vamos mirar nessa challenge.
 
